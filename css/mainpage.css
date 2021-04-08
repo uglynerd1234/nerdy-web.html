@@ -1,0 +1,44 @@
+body{
+
+background-color: pink;
+
+
+text-align: center;
+
+font-family: 'Nanum Pen Script', cursive;
+
+font-size: 30px;
+}
+
+h1{
+
+font-size:50px;
+
+font-weight: 800;
+
+color:Black;
+
+margin-top: 30px;
+
+}
+
+a{
+  font-size: 30px;
+
+  font-weight: lighter;
+
+  margin-top: 30px;
+}
+
+
+h2{
+
+font-size:40px;
+
+font-weight: 800;
+
+color:Black;
+
+margin-top: 30px;
+
+}
